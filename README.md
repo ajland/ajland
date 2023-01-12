@@ -8,7 +8,7 @@
 <h2>📄 Certifications</h2>
 
 - <b>[MITx MicroMasters in Statistics & Data Science (in-progress)]</b>
-  - [6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/bc6aa6ef97914a70a881112bbb7f0e27)
+  - [6.00.1x: Introduction to Computer Science and Programming Using Python (prerequisite)](https://courses.edx.org/certificates/bc6aa6ef97914a70a881112bbb7f0e27)
   - [6.431x: Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/a1ae3793d74e405eae95f872a8d2836f)
   - [6.86x: Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/certificates/8cfc6d0b24c14cdd8e7184b838ac0648)
 
