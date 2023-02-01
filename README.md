@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Neural Networks</b>
-  - [Machine Translation Model](https://github.com/joshmadakor1/LABURL)
+  - [TO BE ADDED](https://github.com/joshmadakor1/LABURL)
 
 <h2>📄 Certifications</h2>
 
