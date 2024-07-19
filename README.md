@@ -1,9 +1,11 @@
 Hi, I'm Austin! </h1>
 
-<h2>👨‍💻 Machine Learning Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Neural Networks</b>
-  - [TO BE ADDED]
+- <b>[Vesuvius Challenge - Tensorflow implementation of tutorial](https://www.kaggle.com/code/ajland/tensorflow-implementation-of-tutorial)</b>
+  - The goal of this project was to re-implement the tutorial given with PyTorch with TensorFlow.
+- <b>[Probability Maximization and Financial Investment Analysis](https://colab.research.google.com/drive/1UvaRfXLXauDnjb3lnqos07DutVo9rI2X#scrollTo=_LKyKw83FOpA)</b>
+  - This project was carried out in the context of an MMORPG (i.e. Final Fantasy XI) wherein I gave the community an analysis of the money/time investment likely required to obtain the best fishing pole in the game. In the context of the game, players are required to trade two hard to obtain fish to an npc for a chance of obtaining required items to complete a quest and obtain a rod. One fish yields an item with probability 0.5% and the other yields its item with probability 0.4%. I assume that each trial is iid bernoulli and I progress to using the CDFs of the geometric distributions to perform the analysis.
 
 <h2>🕵️ Kaggle Notebooks:</h2>
 
@@ -16,11 +18,10 @@ Hi, I'm Austin! </h1>
   - [6.431x: Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/a1ae3793d74e405eae95f872a8d2836f)
   - [6.86x: Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/certificates/8cfc6d0b24c14cdd8e7184b838ac0648)
   - [18.6501x: Fundamentals of Statistics](https://courses.edx.org/certificates/6d377d04ed05420cac22d916ff1dd2fa?_gl=1*1nhksfe*_ga*MTg3MTc1OTcwNi4xNzEwOTQyOTI3*_ga_D3KS4KMDT0*MTcxMjIzNjIyNi4yMS4wLjE3MTIyMzYyMjYuNjAuMC4w)
-  - [6.419x: Data Analysis: Statistical Modeling and Computation in Applications (enrolled)]
+  - [6.419x: Data Analysis: Statistical Modeling and Computation in Applications (in-progress)]
+    - [My repo](https://github.com/ajland/Data-Analysis-MITx/tree/main) containing written analyses for each module in the class
  
-- <b>[Computational Thinking using Python (in progress)](https://www.edx.org/xseries/mitx-computational-thinking-using-python)</b>
-  - [6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/bc6aa6ef97914a70a881112bbb7f0e27)
-  - [6.00.2x: Introduction to Computational Thinking and Data Science (in progress)]
+- <b>[Computational Thinking using Python](https://credentials.edx.org/credentials/c69ad50578ea4e83a727ea0c8e9df252/)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
