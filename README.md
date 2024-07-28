@@ -5,7 +5,7 @@ Hi, I'm Austin! </h1>
 - <b>[Vesuvius Challenge - Tensorflow implementation of tutorial](https://www.kaggle.com/code/ajland/tensorflow-implementation-of-tutorial)</b>
   - The goal of this project was to re-implement the tutorial given with PyTorch with TensorFlow.
 - <b>[Probability Maximization and Financial Investment Analysis](https://colab.research.google.com/drive/1UvaRfXLXauDnjb3lnqos07DutVo9rI2X#scrollTo=_LKyKw83FOpA)</b>
-  - This project was carried out in the context of an MMORPG (i.e. Final Fantasy XI) wherein I gave the community an analysis of the money/time investment likely required to obtain the best fishing pole in the game. In the context of the game, players are required to trade two hard to obtain fish to an npc for a chance of obtaining required items to complete a quest and obtain a rod. One fish yields an item with probability 0.5% and the other yields its item with probability 0.4%. I assume that each trial is iid bernoulli and I progress to using the CDFs of the geometric distributions to perform the analysis.
+  - This project was carried out in the context of an MMORPG wherein I gave the community an analysis of the money/time investment likely required to obtain a particular rare item. In the context of the game, players are required to trade items to an npc for a chance of obtaining the desired quest items. One trade yields an item with probability 0.5% and the other yields its item with probability 0.4%. I assume that each trial is iid bernoulli and I progress to using the CDFs of the geometric distributions to perform the analysis.
 
 <h2>🕵️ Kaggle Notebooks:</h2>
 
