@@ -2,16 +2,13 @@ Hi, I'm Austin! </h1>
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>[Vesuvius Challenge - Ink Detection EDA](https://www.kaggle.com/code/ajland/eda-a-slice-by-slice-analysis)</b>
+  - Context: This competition entailed developing an algorithm to detect ink from X-Ray CT scans of scrolls that were carbonized by a fire and had known characters and character locations. The EDA explores the 65 X-Ray CT slices by plotting layer-by-layer voxel intensity histograms as well as summary statistics at each layer; potential normalization and cross-validation strategies are recommended as a result. The notebook was cited by several top-10 performing teams and by an academic pre-print.
 - <b>[Vesuvius Challenge - Tensorflow implementation of tutorial](https://www.kaggle.com/code/ajland/tensorflow-implementation-of-tutorial)</b>
   - The goal of this project was to re-implement the tutorial given in PyTorch with TensorFlow.
 - <b>[6.419x Data Analysis Written Reports & Notebooks](https://github.com/ajland/Data-Analysis-MITx/tree/main)</b>
 - <b>[Probability Maximization and Financial Investment Analysis](https://colab.research.google.com/drive/1UvaRfXLXauDnjb3lnqos07DutVo9rI2X#scrollTo=_LKyKw83FOpA)</b>
   - This project was carried out in the context of an MMORPG wherein I gave the community an analysis of the money/time investment likely required to obtain a particular rare item. In the context of the game, players are required to trade items to an npc for a chance of obtaining the desired quest items. One trade yields an item with probability 0.5% and the other yields its item with probability 0.4%. I assume that each trial is iid bernoulli and I progress to using the CDFs of the geometric distributions to perform the analysis.
-
-<h2>🕵️ Kaggle Notebooks:</h2>
-
-- <b>[Vesuvius Challenge - Ink Detection EDA](https://www.kaggle.com/code/ajland/eda-a-slice-by-slice-analysis)</b>
-  - Context: This competition entailed developing an algorithm to detect ink from X-Ray CT scans of scrolls that were carbonized by a fire and had known characters and character locations. The EDA explores the 65 X-Ray CT slices by plotting layer-by-layer voxel intensity histograms as well as summary statistics at each layer; potential normalization and cross-validation strategies are recommended as a result. The notebook was cited by several top-10 performing teams and by an academic pre-print.
 
 <h2>📄 Certifications</h2>
 
