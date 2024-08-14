@@ -10,6 +10,9 @@ Hi, I'm Austin! </h1>
 - <b>[Probability Maximization and Financial Investment Analysis](https://colab.research.google.com/drive/1UvaRfXLXauDnjb3lnqos07DutVo9rI2X#scrollTo=_LKyKw83FOpA)</b>
   - This project was carried out in the context of an MMORPG wherein I gave the community an analysis of the money/time investment likely required to obtain a particular rare item. In the context of the game, players are required to trade items to an npc for a chance of obtaining the desired quest items. One trade yields an item with probability 0.5% and the other yields its item with probability 0.4%. I assume that each trial is iid bernoulli and I progress to using the CDFs of the geometric distributions to perform the analysis.
 
+- <b>[Monte Carlo Simulation](https://colab.research.google.com/drive/1sLtN9e9t7z3k-ZuJJLcUr7lqT1RVcO8V?authuser=1#scrollTo=pXDS5Xa4MuHk)</b>
+  - Simulated the outcome and estimated the distribution of a random variable, $W = \lfloor \frac{Y_1 + Y_2}{2}M \rfloor$, where $Y_1$, $Y_2 \stackrel{iid}{\sim} U\set{45, 150}$ and $M \sim U[4.65, 5.15]$. The distribution of $\frac{Y_1 + Y_2}{2}$ is computed analyitically prior to simulation to reduce the uncertainty in the estimated distribution.
+
 <h2>📄 Certifications</h2>
 
 - <b>[MITx MicroMasters in Statistics & Data Science (in-progress)](https://micromasters.mit.edu/ds/)</b>
