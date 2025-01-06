@@ -21,12 +21,8 @@ Hi, I'm Austin! </h1>
 
 <h2>📄 Certifications</h2>
 
-- <b>[MITx MicroMasters in Statistics & Data Science (in-progress)](https://micromasters.mit.edu/ds/)</b>
-  - [6.431x: Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/a1ae3793d74e405eae95f872a8d2836f)
-  - [6.86x: Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/certificates/8cfc6d0b24c14cdd8e7184b838ac0648)
-  - [18.6501x: Fundamentals of Statistics](https://courses.edx.org/certificates/6d377d04ed05420cac22d916ff1dd2fa?_gl=1*1nhksfe*_ga*MTg3MTc1OTcwNi4xNzEwOTQyOTI3*_ga_D3KS4KMDT0*MTcxMjIzNjIyNi4yMS4wLjE3MTIyMzYyMjYuNjAuMC4w)
-  - [6.419x: Data Analysis: Statistical Modeling and Computation in Applications](https://courses.edx.org/certificates/f8deae5df0d04982a59f0434864726dd)
-  - Capstone Exams (scheduled)
+- <b>[MITx MicroMasters in Statistics & Data Science](https://micromasters.mit.edu/ds/)</b>
+  - [Program of Record](https://credentials.edx.org/records/programs/shared/a3267b009b7044f5b5a5b12f7ddc76fd)
  
 - <b>[Computational Thinking using Python](https://credentials.edx.org/credentials/c69ad50578ea4e83a727ea0c8e9df252/)</b>
 
