@@ -24,7 +24,7 @@ Hi, I'm Austin! </h1>
 - <b>[MITx MicroMasters in Statistics & Data Science](https://micromasters.mit.edu/ds/)</b>
   - [Program of Record](https://credentials.edx.org/records/programs/shared/a3267b009b7044f5b5a5b12f7ddc76fd)
  
-- <b>[Computational Thinking using Python](https://credentials.edx.org/credentials/c69ad50578ea4e83a727ea0c8e9df252/)</b>
+- <b>[Computational Thinking using Python](https://credentials.edx.org/records/programs/shared/fe12a89cb2dd4936891d109e36de746a)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
